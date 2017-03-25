@@ -1,0 +1,2 @@
+# dancurr
+Currency converting CLI
